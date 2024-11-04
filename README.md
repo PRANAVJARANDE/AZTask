@@ -16,6 +16,15 @@ This project is a web application developed as part of an assignment for AlgoZen
 - **Efficient State Management**: Managed via Redux Toolkit to handle global state seamlessly.
 - **Reusable Components**: Modular and reusable components, following best practices for React.
 
+## Live Demo
+
+Access the live demo of the project here:
+- [Live Application Link](https://algozenithbypj.netlify.app/)
+
+## Screenshots
+  **Screenshot 1**    ![1](/Screenshots/ss1.png)      
+  **Screenshot 2**    ![2](/Screenshots/ss2.png)      
+
 ## Submission
 
 For reviewing the project, please use either the hosted link (preferred) or visit the GitHub repository provided.
